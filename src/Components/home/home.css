@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --bg-color:#262626;
+  --font-lite:#BCB4B4;
+  --font-white:#FFFFFF;
+  --card-bg:#1E1E1E;
+}
+
+.Hero{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 80vh;
+  background-color: var(--bg-color);
+  padding: 1rem;
+}
+
+.Hero h1{
+  color: #FFFFFF;
+  margin: 1rem;
+}
+.Hero p{
+font-family: 'Roboto Mono', monospace;
+max-width: 500px;
+}

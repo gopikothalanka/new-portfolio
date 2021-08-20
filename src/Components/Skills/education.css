@@ -1,0 +1,30 @@
+.skillSet{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.skills{
+  max-width: 50%;
+  min-width: 300px;
+
+}
+.skills h1{
+  text-align: center;
+}
+.education{
+  max-width: 50%;
+  min-width: 300px;
+}
+.education ul li{
+display: flex;
+flex-direction: column;
+margin: 1rem;
+}
+.education ul li span{
+  margin-bottom: 0.4rem;
+}
+
+.education h1{
+  text-align: center;
+}
