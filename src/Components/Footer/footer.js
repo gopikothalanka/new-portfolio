@@ -19,9 +19,9 @@ export default function footer() {
       <div className="social-links">
         <h2>Important links</h2>
         <ul>
-          <li><a href="https://www.linkedin.com/in/gopi-kothalanka/" target="_blank"><i class="fab fa-linkedin" ></i> linked in</a></li>
-          <li><a href="https://www.instagram.com/gopi_kothalanka/" target="_blank"> <i class="fab fa-instagram" ></i> instagram</a></li>
-          <li><a href="#" target="_blank"><i class="fas fa-file"></i>  Resume</a></li>
+          <li><a href="https://www.linkedin.com/in/gopi-kothalanka/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" ></i> linked in</a></li>
+          <li><a href="https://www.instagram.com/gopi_kothalanka/" target="_blank" rel="noopener noreferrer">  <i className="fab fa-instagram" ></i> instagram</a></li>
+          <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="fas fa-file"></i>  Resume</a></li>
         </ul>
       </div>
     </footer>

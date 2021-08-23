@@ -1,7 +1,7 @@
 import React from 'react'
 import './project.css'
 import { goods} from './projects-data.js';
-import { map } from 'async';
+
 
 export default function projects() {
   const item =goods.map(({photoUrl,title,viewCode,viewProject},index)=>{
