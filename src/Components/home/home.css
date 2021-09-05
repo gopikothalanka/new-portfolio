@@ -19,6 +19,7 @@
   height: 80vh;
   background-color: var(--bg-color);
   padding: 1rem;
+  min-height: 100vh;
 }
 
 .Hero h1{
@@ -28,4 +29,13 @@
 .Hero p{
 font-family: 'Roboto Mono', monospace;
 max-width: 500px;
+}
+.Hero a{
+  text-decoration: none;
+  color: var(--card-bg);
+  background-color: var(--font-lite);
+  padding: 8px;
+  border-radius: 8px;
+  margin: 1rem;
+  font-weight: 900;
 }

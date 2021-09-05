@@ -20,7 +20,7 @@ export default function footer() {
         <ul>
           <li><a href="https://www.linkedin.com/in/gopi-kothalanka/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" ></i> linked in</a></li>
           <li><a href="https://www.instagram.com/gopi_kothalanka/" target="_blank" rel="noopener noreferrer">  <i className="fab fa-instagram" ></i> instagram</a></li>
-          <li><a href="https://drive.google.com/file/d/11dcSIEkKth1mb6j-bNLyGUFu611qTTSM/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i className="fas fa-file"></i>  Resume</a></li>
+          <li><a href="https://drive.google.com/file/d/11dcSIEkKth1mb6j-bNLyGUFu611qTTSM/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-download"></i>  Resume</a></li>
         </ul>
       </div>
     </footer>

@@ -46,13 +46,13 @@ nav {
 @media screen and (max-width:600px) {
   .menu-icon{
     display:block;
-    position: absolute;
+    position:fixed;
     right: 20px;
     top: 1.5rem;
   }
   .menu-list{
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     background-color: #1E1E1E;
     padding: 1rem;
     top: 50px;

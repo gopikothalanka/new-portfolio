@@ -1,10 +1,10 @@
 import React from 'react'
 import './project.css'
-import { goods} from './projects-data.js';
+import { details} from './projects-data.js';
 
 
 export default function projects() {
-  const item =goods.map(({photoUrl,title,viewCode,viewProject},index)=>{
+  const item =details.map(({photoUrl,title,viewCode,viewProject},index)=>{
     return(
       <div className="item" key={index}>
       <img src={photoUrl} alt={title}  />

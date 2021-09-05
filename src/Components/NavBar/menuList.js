@@ -2,7 +2,7 @@
 export const MenuList = [
   {
     title: "Home",
-    url: "/",
+    url: "#home",
   },
   {
     title: "Projects",
@@ -10,7 +10,7 @@ export const MenuList = [
   },
   {
     title: "Education",
-    url: "#education",
+    url: "#skills",
   },
   {
     title: "Contact me",
