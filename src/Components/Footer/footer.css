@@ -28,11 +28,14 @@ footer ul li a{
   text-decoration: none;
   color: inherit;
 }
+.person{
+  margin: 0 0 0.5rem 0;
+}
 @media screen and (max-width:565px) {
   footer{
     display: flex;
     flex-direction:column;
-    align-items: center;
+    align-items: left;
   }
   footer ul{
     margin-bottom :1rem; 

@@ -5,11 +5,13 @@
   flex-wrap: wrap;
   align-content: center;
   min-height: 100vh;
+  margin:1rem ;
 }
 
 .education{
   max-width: 50%;
   min-width: 300px;
+  margin:2rem;
 }
 .education ul li{
 display: flex;
@@ -54,7 +56,7 @@ list-style-type: none;
   box-shadow: rgba(188, 180, 180, 0.35) 3px 10px 10px;
 }
 .progressBarValue {
-  height: 1.66em;
+  height: 100%;
   float: left;
   border-radius: 12px;
   background: #BCB4B4;

@@ -25,7 +25,8 @@ export default function projects() {
       <h1>Projects</h1>
    
       <div className="warp">
-      {item}
+
+          {item}
       </div>
 
     </div>
