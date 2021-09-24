@@ -1,4 +1,4 @@
-import './Projects-photos/fmc-1-by-gopi.png'
+
 export const details=[
 {
   photoUrl:require('./Projects-photos/todo-list-by-gopi.jpg').default,

@@ -10,7 +10,7 @@ export default function education() {
       <ul>
         <li> 
           <h3>HTML</h3>
-          <div class="progressBarContainer"> <div class="progressBarValue value-90"><p>90%</p></div></div>
+        <div class="progressBarContainer"> <div class="progressBarValue value-90"><p>90%</p></div></div>
          </li>
          <li> 
           <h3>css</h3>

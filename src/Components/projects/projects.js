@@ -14,6 +14,8 @@ export default function projects() {
           <li><a href={viewCode}>view code</a></li>
           <li><a href={viewProject}>view project</a></li>
         </ul>
+      
+      
       </div>
      </div>
     )
