@@ -11,8 +11,8 @@ export default function projects() {
       <div className="details">
         <h2>{title} </h2>
         <ul>
-          <li><a href={viewCode}>view code</a></li>
-          <li><a href={viewProject}>view project</a></li>
+          <li><a href={viewCode} target="_blank" rel="noreferrer">view code</a></li>
+          <li><a href={viewProject} target="_blank" rel="noreferrer">view project</a></li>
         </ul>
       
       

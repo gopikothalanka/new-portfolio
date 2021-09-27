@@ -1,5 +1,17 @@
 
 export const details=[
+  {
+    photoUrl:require('./Projects-photos/stockpriceanalyzer.png').default,
+    title:"Stock Price Analyzer",
+    viewCode:'https://github.com/gopikothalanka/Stock-Price-Analyzer.git',
+    viewProject:'https://stockpriceanalyzer-gopi.netlify.app/'
+  },
+  {
+    photoUrl:require('./Projects-photos/cashcounterbygopi.png').default,
+    title:"Cash Counter",
+    viewCode:'https://github.com/gopikothalanka/Cash-counter.git',
+    viewProject:'https://cashcounterbygopi.netlify.app/'
+  },
 {
   photoUrl:require('./Projects-photos/todo-list-by-gopi.jpg').default,
   title:"Todo List",

@@ -10,23 +10,23 @@ export default function education() {
       <ul>
         <li> 
           <h3>HTML</h3>
-        <div class="progressBarContainer"> <div class="progressBarValue value-90"><p>90%</p></div></div>
+        <div className="progressBarContainer"> <div className="progressBarValue value-90"><p>90%</p></div></div>
          </li>
          <li> 
           <h3>css</h3>
-          <div class="progressBarContainer"> <div class="progressBarValue value-80"><p>80%</p></div></div>
+          <div className="progressBarContainer"> <div className="progressBarValue value-80"><p>80%</p></div></div>
          </li>
          <li> 
           <h3>Bootstrap</h3>
-          <div class="progressBarContainer"> <div class="progressBarValue value-30"><p>30%</p></div></div>
+          <div className="progressBarContainer"> <div className="progressBarValue value-30"><p>30%</p></div></div>
          </li>
          <li> 
           <h3>java script</h3>
-          <div class="progressBarContainer"> <div class="progressBarValue value-70"><p>70%</p></div></div>
+          <div className="progressBarContainer"> <div className="progressBarValue value-70"><p>70%</p></div></div>
          </li>
          <li> 
           <h3>React js</h3>
-          <div class="progressBarContainer"> <div class="progressBarValue value-50"><p>50%</p></div></div>
+          <div className="progressBarContainer"> <div className="progressBarValue value-50"><p>50%</p></div></div>
          </li>
       </ul>
       </div>
